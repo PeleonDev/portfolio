@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: antiquewhite;
+}
+
+header {
+    background-color: #804d1d;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border: 5px;
+    border-radius: 10px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: yellow;
+    font-weight: bold;
+    margin: 0 15px;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+.section {
+    text-align: center;
+    list-style-position: inside;
+}
+
+footer {
+    background-color: bisque;
+    text-align: center;
+    padding: 10px;
+}
+
+.email {
+    text-decoration: none;
+    color: green;
+}
+
+.email:hover {
+    text-decoration: underline;
+}
